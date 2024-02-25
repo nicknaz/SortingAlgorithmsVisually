@@ -1,1 +1,2 @@
 # SortingAlgorithmsVisually
+![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlqdWt6MWVkZmVmdWx0a2tzb3E1Z3BpM2czdTk4dDIxZXNleHRibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4zzWljFWO7O8g3NiGo/giphy.gif)
